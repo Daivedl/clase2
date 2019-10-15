@@ -1,0 +1,50 @@
+body{
+
+  font-family: 'Raleway', sans-serif;
+
+}
+a{
+text-decoration: none;
+color: black;
+float: right;
+}
+div{
+  background: url(../img/emilia-music-top.jpg) no-repeat center top;
+  background-size: 100% 100%;
+}
+
+#opacidad{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: right;
+  background-color: rgba(255,255,255,0.2);
+
+}
+h1{
+  font-family: 'Work Sans', sans-serif;
+	font-size: 75px;
+}
+li{
+  font-family: 'Work Sans', sans-serif;
+  list-style:none;
+  opacity: 0.5;
+  font-weight: bold;
+}
+.aplicate{
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  font-weight:700;
+}
+h5{
+  font-size: 18px;
+  opacity: 0.5;
+
+}
+h4{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+}
+.izquierda{
+  float: left;
+
+}

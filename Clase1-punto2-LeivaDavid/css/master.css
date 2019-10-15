@@ -1,0 +1,23 @@
+body {
+
+	background: url(../img/emilia-home.jpg) no-repeat right center;
+  font: 'Raleway', sans-serif;
+}
+#Emilia {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 35px;
+}
+#Raleway{
+	font-family: 'Raleway', sans-serif;
+	font-size: 80px;
+	background-color: rgba(255,255,255,0.4);
+}
+
+h6{
+	font-family: Open Sans, sans-serif;
+	font-size: 14px;
+}
+a{
+text-decoration: none;
+color: black;
+}

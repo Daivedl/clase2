@@ -1,0 +1,27 @@
+body{
+
+  font-family: 'Raleway', sans-serif;
+
+}
+a{
+text-decoration: none;
+color: black;
+}
+h1{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 80px;
+}
+.izquierda{
+  float: right;
+
+}
+#opacidad{
+  opacity: 0.5;
+}
+#verde{
+  color: #3DB996;
+}
+h3{
+  font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}

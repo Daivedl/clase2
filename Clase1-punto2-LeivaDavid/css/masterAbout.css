@@ -1,0 +1,28 @@
+body{
+  background: url(../img/emilia-about.jpg) no-repeat right center;
+  font: Open Sans;
+  font-family: 'Raleway', sans-serif;
+}
+a{
+text-decoration: none;
+color: black;
+float: right;
+}
+#opacidad{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+  text-align: right;
+  background-color: rgba(255,255,255,0.4);
+}
+
+#Emilia {
+	font-family: 'Work Sans', sans-serif;
+	font-size: 75px;
+}
+#texto1{
+font-size: 30px;
+color: #3DB996;
+}
+#texto2{
+color: #3DB996;
+}
